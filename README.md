@@ -1,0 +1,2 @@
+# EliteServices
+A Web Application to provide different types of Home & Personal services by booking online from our platform. Divided into 3 modules:- Admin ,Users & Service Providers. Admin can manage mainly all the stuffs. Users can register and book services at their convenient time. Service Providers can become a partner of the system & earn money by providing services to users.(Technologies used:-JAVA,MySQL)
